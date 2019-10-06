@@ -1,0 +1,17 @@
+F:\r39CoreProject\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Web.deps.json
+F:\r39CoreProject\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Web.runtimeconfig.json
+F:\r39CoreProject\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Web.runtimeconfig.dev.json
+F:\r39CoreProject\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Web.dll
+F:\r39CoreProject\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Web.pdb
+F:\r39CoreProject\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Data.dll
+F:\r39CoreProject\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Service.dll
+F:\r39CoreProject\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+F:\r39CoreProject\dotnet-forum-starter-master\forum-app-demo\bin\Debug\netcoreapp2.0\Forum.Service.pdb
+F:\r39CoreProject\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\Forum.Web.csprojAssemblyReference.cache
+F:\r39CoreProject\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\Forum.Web.csproj.CoreCompileInputs.cache
+F:\r39CoreProject\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\Forum.Web.AssemblyInfoInputs.cache
+F:\r39CoreProject\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\Forum.Web.AssemblyInfo.cs
+F:\r39CoreProject\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\Forum.Web.csproj.CopyComplete
+F:\r39CoreProject\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\Forum.Web.dll
+F:\r39CoreProject\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\Forum.Web.pdb
+F:\r39CoreProject\dotnet-forum-starter-master\forum-app-demo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
